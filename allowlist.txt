@@ -2,4 +2,6 @@
 # Das ist eine Liste für fälschlicherweise geblockte Domains von Pi-Hole.
 # Version 1.0
 
-awin1.com # Benefitsme: Adidas
+awin1.com
+click.mailing.ticketmaster.com
+r.mailings.gdch.de
