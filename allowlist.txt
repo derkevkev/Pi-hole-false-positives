@@ -4,4 +4,5 @@
 
 www.awin1.com
 click.mailing.ticketmaster.com
+click.email.feverup.com
 r.mailings.gdch.de
