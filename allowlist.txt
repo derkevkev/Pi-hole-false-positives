@@ -7,3 +7,4 @@ click.mailing.ticketmaster.com
 click.email.feverup.com
 feverup.com
 r.mailings.gdch.de
+checkip.amazonaws.com
