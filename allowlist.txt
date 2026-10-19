@@ -8,3 +8,4 @@ click.email.feverup.com
 feverup.com
 r.mailings.gdch.de
 checkip.amazonaws.com
+files.pythonhosted.org
