@@ -9,5 +9,3 @@ feverup.com
 r.mailings.gdch.de
 checkip.amazonaws.com
 files.pythonhosted.org
-364819544790.signin.amazonaws-eusc.eu
-eusc-de-east-1.console.amazonaws-eusc.eu
