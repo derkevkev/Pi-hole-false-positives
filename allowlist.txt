@@ -9,4 +9,4 @@ feverup.com
 r.mailings.gdch.de
 checkip.amazonaws.com
 files.pythonhosted.org
-amazonaws-eusc.eu
+(\.|^)amazonaws-eusc\.eu$
